@@ -51,6 +51,14 @@ In progress
 4. Express sends JSON responses back to React
 5. React renders the data
 
+### Files
+frames/
+ARCHITECTURE.md
+README.md
+
+1. frames/ contains static mockups
+2. ARCHITECTURE.md and README.md contain info about the project
+
 ## Future Features
 - Event calendar
 - Volunteer management
