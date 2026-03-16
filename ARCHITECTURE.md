@@ -15,7 +15,11 @@ MongoDB
 **BASIC ARCHITECTURE**
 
 React Client
+
 |
+
 Express API
+
 |
+
 MongoDB
