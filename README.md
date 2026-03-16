@@ -8,6 +8,22 @@ Will potentially grow into tracking volunteers and other management operations.
 ## Project Overview
 Built with the MERN stack, the portal is designed to provide community members with essential information about services and volunteer opportunities. The initial release focuses on marketing and organizational information, with scalable architecture built to support future features.
 
+### Pages
+#### Header & Footer
+Header contains Community Impact logo and options leading to other pages. Footer contains Broadway Community Church address, phone number, social media links, and email subscription sign-up. Header & Footer are the same on every page
+#### Home Page
+Contains volunteer sign-in form at the top, brief mission statement, hours + location, email list, and links to volunteer information
+#### Announcements
+Contains upcoming special events, news regarding Community Impact/Lunch, and notices of closing/other information
+#### Who We Are
+Contains full mission statement, history, more information about Community Impact as a whole, and slideshow of photos from the Soup Kitchen
+#### Volunteer
+Contains volunteer guidelines, sign-up website (let them know it's optional), possible duties, rules, information for clubs/organizations that want to volunteer, and information for performers/groups
+#### Directions
+Contains directions to the church, which entrance to use, and Google Maps Embed API
+#### Contact
+Contains contact information for Community Lunch, social media links, and Community Impact website on Columbia page
+
 ## Problem
 Columbia Soup Kitchen (part of Community Impact, a nonprofit organization dedicated to serving people in need in the Morningside Heights and Harlem communities in tandem with Columbia University), currently has no web presence. 
 
