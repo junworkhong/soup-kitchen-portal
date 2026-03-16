@@ -10,7 +10,7 @@ Node.js + Express.js REST API
 
 **DATABASE**
 
-MongoDB
+MongoDB Atlas
 
 **BASIC ARCHITECTURE**
 
