@@ -70,6 +70,12 @@ In progress
 ### Files
 frames/
 
+backend/
+    models/
+    routes/
+
+frontend/
+
 ARCHITECTURE.md
 
 README.md
